@@ -18,14 +18,6 @@ Only devices you mark as favorites appear in the switching sections of the tray 
 %APPDATA%\AudioTray\settings.json
 ```
 
-## Optional Startup
-
-To start it when Windows starts:
-
-1. Press `Win + R`.
-2. Type `shell:startup`.
-3. Put a shortcut to `AudioTray.exe` in that folder.
-
 ## Exit
 
 Right-click the tray icon and choose `Exit`.
