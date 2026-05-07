@@ -6,9 +6,9 @@ A lightweight Windows 11 system tray tool for switching favorite audio output an
 
 Double-click `AudioTray.exe`.
 
-The app appears in the system tray. The tray icon follows the current Windows output device icon. Right-click it to switch devices. Double-click the icon, or choose `Favorites...`, to pick which input and output devices appear in the tray menu.
+The app appears in the system tray. Right-click it to switch devices. Double-click the icon, or choose `Favorites...`, to pick which input and output devices appear in the tray menu. The Favorites window shows each device's Windows icon beside its name.
 
-The `Favorites...` window also has a `Settings` tab where you can turn notifications on or off and choose whether Audio Tray runs when Windows starts.
+The `Favorites...` window also has a `Settings` tab where you can turn notifications on or off, choose whether Audio Tray runs when Windows starts, choose whether the tray uses the current output device icon or the app icon, open the Sound control panel to change device icons, and control update checks.
 
 ## How Favorites Work
 
